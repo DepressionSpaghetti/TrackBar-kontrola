@@ -1,0 +1,11 @@
+C:\Users\Piero\Documents\School\NiOP\TrackBar kontrola\bin\Debug\TrackBar kontrola.exe.config
+C:\Users\Piero\Documents\School\NiOP\TrackBar kontrola\bin\Debug\TrackBar kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\TrackBar kontrola\bin\Debug\TrackBar kontrola.pdb
+C:\Users\Piero\Documents\School\NiOP\TrackBar kontrola\obj\Debug\TrackBar kontrola.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\TrackBar kontrola\obj\Debug\TrackBar kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\TrackBar kontrola\obj\Debug\TrackBar_kontrola.Form1.resources
+C:\Users\Piero\Documents\School\NiOP\TrackBar kontrola\obj\Debug\TrackBar_kontrola.Properties.Resources.resources
+C:\Users\Piero\Documents\School\NiOP\TrackBar kontrola\obj\Debug\TrackBar kontrola.csproj.GenerateResource.cache
+C:\Users\Piero\Documents\School\NiOP\TrackBar kontrola\obj\Debug\TrackBar kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\TrackBar kontrola\obj\Debug\TrackBar kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\TrackBar kontrola\obj\Debug\TrackBar kontrola.pdb
